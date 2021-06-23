@@ -1,7 +1,12 @@
 import React from 'react';
+import TopBar from './components/TopBar';
 
 const App = () => {
-  return <div>React Admin Dashboard</div>;
+  return (
+    <div>
+      <TopBar />
+    </div>
+  );
 };
 
 export default App;

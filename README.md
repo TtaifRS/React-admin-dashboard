@@ -23,3 +23,7 @@ npm install @material-ui/core
 ```bash
 npm i recharts
 ```
+
+# font family
+
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;600;700;900&display=swap" rel="stylesheet"/>
