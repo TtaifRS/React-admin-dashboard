@@ -27,5 +27,5 @@ npm i recharts
 # font family
 
 ```diff
-! Source Sans Pro
+Source Sans Pro
 ```
