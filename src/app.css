@@ -1,0 +1,7 @@
+.sidebarContainer {
+  display: flex;
+}
+
+.othersForNow {
+  flex: 4;
+}
