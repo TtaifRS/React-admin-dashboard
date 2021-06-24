@@ -17,7 +17,7 @@ export const featuredData = [
   },
   {
     title: 'Cost',
-    money: '$2.715',
+    money: '$2,715',
     rate: '+8.4',
     IconComponent: ArrowUpward,
   },
